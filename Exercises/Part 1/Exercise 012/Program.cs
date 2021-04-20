@@ -6,7 +6,9 @@ namespace exercise_12
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+      int number = 11;
+            number = 42;
+                Console.WriteLine("number");
 
     }
   }

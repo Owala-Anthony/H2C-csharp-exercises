@@ -6,7 +6,11 @@ namespace exercise_13
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+      double a = 11.11;
+      double b = 41.999999;
+    
+            Console.WriteLine("a,b");
+            
 
     }
   }

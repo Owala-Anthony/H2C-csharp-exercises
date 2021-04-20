@@ -6,7 +6,17 @@ namespace exercise_28
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+      int number = 18;
+    if (number == 5)
+    { 
+                Console.WriteLine("You are under age");
+    }
+    if (number == 18)
+
+    { 
+                Console.WriteLine("You 're adult");
+    }
+
 
     }
   }

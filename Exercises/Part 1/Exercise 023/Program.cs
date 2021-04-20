@@ -7,7 +7,12 @@ namespace exercise_23
     public static void Main(string[] args)
     {
 
-      // Write your code here:
+      int x = 3;
+            int y = 2;
+            Console.WriteLine(x + y);
+            Console.WriteLine(x - y);
+            Console.WriteLine(x * y);
+            Console.WriteLine(x / y);
 
     }
   }

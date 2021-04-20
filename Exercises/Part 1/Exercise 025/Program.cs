@@ -6,7 +6,15 @@ namespace exercise_25
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+      int number = 1985;
+      if (number == 1984)
+      { 
+                Console.WriteLine("Orwell");
+      }
+      else
+      { 
+                Console.WriteLine("Stop");
+      }
 
     }
   }

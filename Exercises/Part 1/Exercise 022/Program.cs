@@ -7,7 +7,11 @@ namespace exercise_22
     public static void Main(string[] args)
     {
 
-      // Write your code here:
+      int first = 3;
+                int second = 2;
+            int third = 1;
+            double average = (first + second + third)/2.0;
+                Console.WriteLine(average);
 
     }
   }

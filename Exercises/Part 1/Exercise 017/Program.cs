@@ -7,7 +7,14 @@ namespace exercise_17
     public static void Main(string[] args)
     {
 
-      // Write your code here:
+      int first = 8;
+      int second = 3;
+      int third = 3;
+      int fouth = -1;
+            int sum = first + second;
+            sum = third - fouth;
+            Console.WriteLine(sum + sum);
+            
 
     }
   }

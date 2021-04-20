@@ -6,8 +6,14 @@ namespace exercise_34
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+      int sum = 4;
+      int readNumbers = 5;
 
+    while (Yes)
+            {
+                if (readNumbers == 4)
+            }
+    break;
     }
   }
 }

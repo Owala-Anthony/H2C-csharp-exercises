@@ -6,8 +6,8 @@ namespace exercise_06
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Give input!");
-            // Write your code here:
+            Console.WriteLine("Greetings");
+            String Greetings = "Hello";
             
         }
     }

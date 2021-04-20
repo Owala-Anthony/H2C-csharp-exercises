@@ -6,7 +6,15 @@ namespace exercise_33
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+    string a = Console.ReadLine();
+    string b = Console.ReadLine();
+            if (a.Equals(b)) Console.WriteLine("Echo!");
+            else Console.WriteLine("No");
+
+            Console.ReadLine();
+  
+   
+    
 
     }
   }

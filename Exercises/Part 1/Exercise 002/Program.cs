@@ -6,11 +6,9 @@ namespace exercise_02
     {
         public static void Main(string[] args)
         {
-            Console.WriteLines("Once upon a time");
-            Console.WriteLines("I was falling in love");
-            Console.WriteLines("Now I'm only falling apart");
+            Console.Writeline("Once upon a time");
+
+            Console.WriteLine("I was falling in love\n Now I'm only falling apart");
         }
-    }
-    
-    
+    } 
 }

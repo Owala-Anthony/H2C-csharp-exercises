@@ -7,7 +7,11 @@ namespace exercise_18
     public static void Main(string[] args)
     {
 
-      // Write your code here:
+      int x = 3;
+      int y = -1;
+      int z = 2;
+            int sum = (x-y+z);
+            Console.WriteLine(sum);
 
     }
   }

@@ -6,7 +6,17 @@ namespace exercise_31
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+            String remainder = ("It is even");
+    int number = Convert.ToInt32(remainder);
+    if ((number / 2) == 0)
+    { 
+                Console.WriteLine("remainder");
+    }
+    String name = ("It is odd");
+    if ((number / 5) == 1)
+    { 
+                Console.WriteLine("name");
+    }
 
     }
   }

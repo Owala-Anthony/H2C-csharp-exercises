@@ -6,7 +6,16 @@ namespace exercise_27
   {
     public static void Main(string[] args)
     {
-      // Write your code here:
+      int number = 5;
+    if (number > 0)
+    { 
+                Console.WriteLine("It is positive");
+    }
+    else if (0 > -2)
+    { 
+                Console.WriteLine("It is not positive");
+    }
+
 
     }
   }

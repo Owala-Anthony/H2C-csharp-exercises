@@ -7,7 +7,10 @@ namespace exercise_16
     public static void Main(string[] args)
     {
 
-      // Write your code here:
+      int day2 = 172800;
+      int day7 =604800;
+            Console.WriteLine(day2);
+            Console.WriteLine(day7);
 
     }
   }
