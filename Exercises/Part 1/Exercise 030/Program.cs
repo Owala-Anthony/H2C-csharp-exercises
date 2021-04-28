@@ -23,7 +23,7 @@ namespace exercise_30
     { 
                 Console.WriteLine("Grade: 5");
     }
-    else if (number => 99)
+    else (number => 99)
     { 
                 Console.WriteLine("Outstanding");
     }

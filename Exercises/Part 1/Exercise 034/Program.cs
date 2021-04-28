@@ -5,15 +5,16 @@ namespace exercise_34
   class Program
   {
     public static void Main(string[] args)
+   while (true)
     {
-      int sum = 4;
-      int readNumbers = 5;
-
-    while (Yes)
+     Console.Writeline("Do you want to continue?");
+     String input = Console.ReadLine();
+     if (input = "no")
             {
-                if (readNumbers == 4)
+            Break;
             }
-    break;
-    }
+    Console.Writeline("Let's keep going!")
+        {
+        Console.Writeline("All done!);
   }
 }

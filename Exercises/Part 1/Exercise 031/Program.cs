@@ -6,7 +6,7 @@ namespace exercise_31
   {
     public static void Main(string[] args)
     {
-            String remainder = ("It is even");
+    String remainder = ("It is even");
     int number = Convert.ToInt32(remainder);
     if ((number / 2) == 0)
     { 
