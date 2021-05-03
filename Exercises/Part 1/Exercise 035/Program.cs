@@ -7,17 +7,15 @@ namespace exercise_35
     public static void Main(string[] args)
     {
     while (true)
-    }
-            Console.WriteLine ("Iput an integer, 42 quits");
-            int command = Convert.ToInt32(Console.ReadLine());
-            if (command == 42)
-    {
-    break;
-    }
-    {
-            Console.WriteLine("You gave" + command);
-  }
+                Console.Write("Give a number:\n>");
+                Int answer = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("All done!");
+                if(answer == 42)
+                {
+                 break;
+                }
+
+                 Console.ReadKey();
+    }
   }
 }
